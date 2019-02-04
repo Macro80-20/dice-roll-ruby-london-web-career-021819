@@ -6,3 +6,4 @@ def roll
   return rand(1...7)
   # code goes here
 end
+puts "Hel"
